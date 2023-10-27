@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="secondsTextView" type="id" />
+    <item name="millisecondsTextView" type="id" />
+</resources>
